@@ -1,0 +1,18 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Found reference to unknown structure 'valhelsia_structures:",
+      "valhelsia",
+      "Unknown structure start: valhelsia_structures:"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "Found reference to unknown structure 'valhelsia_structures:",
+      "valhelsia",
+      "Unknown structure start: valhelsia_structures:"
+    ]
+  }
+}
